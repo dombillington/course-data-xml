@@ -1,6 +1,6 @@
 <course>
   	<courseCode><![CDATA[<t4 type="content" name="Course UCAS code" output="normal" modifiers="striptags" />]]></courseCode>
-    <courseArea><![CDATA[<t4 type="content" name="Undergraduate study area" output="selective-output" format="" /><t4 type="content" name="Postgraduate study-area" output="selective-output" format="" />]]></courseArea>
+    <courseArea><![CDATA[<t4 type="content" name="Undergraduate study area" output="selective-output" format="$value" /><t4 type="content" name="Postgraduate study-area" output="selective-output" format="$value" />]]></courseArea>
     <courseTitle><![CDATA[<t4 type="content" name="Name" output="normal" modifiers="striptags" />]]></courseTitle>
     <courseURL><![CDATA[https://www.yorksj.ac.uk<t4 type="navigation" name="Course URL path getter for XML" id="126" />]]></courseURL>
     <courseOverview><![CDATA[<t4 type="content" name="Course overview text" output="normal" modifiers="striptags" />]]></courseOverview>
